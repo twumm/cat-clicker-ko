@@ -1,4 +1,4 @@
-ud989-cat-clicker-ko-starter
+Cat Clicker
 ============================
 
-ud989-cat-clicker-ko-starter
+Using Knockoutjs to refactor a cat-clicker application
